@@ -1,1 +1,1 @@
-# BharatVotes - Voter List Management System
+# fairVotes - Voter List Management System
